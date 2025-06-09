@@ -10,7 +10,7 @@ Some features:
 
 codepen: (https://codepen.io/Hi-mohammad/pen/xbGXZob)
 
-Demo: Live-Demo ----> [Click Here](https://mohammadrezaei5.github.io/flexbox-and-grid/)
+Live-Demo ----> [Click Here](https://mohammadrezaei5.github.io/flexbox-and-grid/)
 
 IMAGE:
 ![flexbox-and-grid](https://github.com/user-attachments/assets/eabd8d2b-88c6-46a4-af2c-0a1a28d0f456)
